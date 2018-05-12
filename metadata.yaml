@@ -1,0 +1,30 @@
+_repo: Mundus-Foppensis--The-Fop-Display-d_36841
+_version: 0.1.0
+contributor:
+  dubious_author:
+    agent_name: Evelyn, John
+    birthdate: 1620
+    deathdate: 1706
+    gutenberg_agent_id: '6100'
+    url: http://www.gutenberg.org/2009/agents/6100
+    wikipedia: http://en.wikipedia.org/wiki/John_Evelyn
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2011-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36841'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sex role -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Men -- Poetry'
+- !lcsh 'Masculinity -- Poetry'
+- !lcsh 'Evelyn, Mary, 1665-1685. Mundus muliebris'
+title: 'Mundus Foppensis: The Fop Display''d'
+url: http://www.gutenberg.org/ebooks/36841
