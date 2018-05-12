@@ -12,6 +12,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36841#Mundus-Foppensis--The-Fop-Display-d
 gutenberg_issued: '2011-07-25'
 gutenberg_type: Text
 identifiers:
